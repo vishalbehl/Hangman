@@ -1,5 +1,6 @@
 ## Hangman
-![image](https://user-images.githubusercontent.com/57057146/126120538-db8dae0c-e4d0-45b1-9180-0b37c7a0821d.png)
+![image](https://user-images.githubusercontent.com/57057146/126120687-2e50d141-f760-4c67-aad2-542827da91a8.png)
+
 A Hangman Game On Python is about guessing letters (A-Z) to form the words. If the player guesses the right letter that is within the word, the letter appears at its correct positions. The user has to guess the correct word until a man is hung, then the game is over.
 
 ## Flow Chart:
